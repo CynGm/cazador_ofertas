@@ -1,0 +1,15 @@
+# Carpetas comunes que no queremos subir
+__pycache__/
+*.py[cod]
+*.log
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
